@@ -9,8 +9,8 @@
   
   
   .cartoon div {
-    position: absolute;
-    box-sizing: border-box;
+    position:absolute;
+    box-sizing:border-box;
   }
   
   .b {
